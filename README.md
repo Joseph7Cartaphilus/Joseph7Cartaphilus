@@ -46,5 +46,5 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![Joseph github stats](https://github-readme-stats.vercel.app/api?username=JosephS&show_icons=true&theme=white&include_all_commits=true&count_private=true)
-![Joseph Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joseph&layout=compact&count_private=true&theme=white)
+![Joseph github stats](https://github-readme-stats.vercel.app/api?username=Joseph7Cartaphilus&show_icons=true&theme=white&include_all_commits=true&count_private=true)
+![Joseph Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joseph7Cartaphilus&layout=compact&count_private=true&theme=white)
